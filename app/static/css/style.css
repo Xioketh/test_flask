@@ -1,0 +1,8 @@
+body{
+    padding: 20px;
+    background-color: beige;
+}
+
+nav {
+    margin: -20px -20px 0 -20px; /* Cancels the body padding */
+}
